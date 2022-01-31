@@ -1,0 +1,39 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;  
+}
+body{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.box{
+    background-color: purple;
+    color: white;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.home{
+    background-color: purple;
+    color: white;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    li{
+        list-style: none;
+    }
+}
+
+header{
+    background-color: yellowgreen;
+    text-align: center;
+}
+footer {
+    background-color: palegreen;
+    text-align: center;
+}
